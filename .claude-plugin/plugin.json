@@ -1,0 +1,19 @@
+{
+  "name": "njectai",
+  "displayName": "NjectAI",
+  "version": "1.0.1",
+  "description": "Your NjectAI context profiles and memory in Claude: pull your saved context before writing, write in your voice, improve a prompt, search what you said before, and save the notes you choose.",
+  "author": {
+    "name": "NjectAI",
+    "url": "https://nject.ai"
+  },
+  "homepage": "https://nject.ai/docs/mcp",
+  "repository": "https://github.com/NjectAI/njectai-claude-plugin",
+  "license": "MIT",
+  "keywords": ["context", "memory", "profiles", "prompts", "brand-voice", "writing"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://nject.ai/docs/mcp",
+  "supportUrl": "https://nject.ai/contact",
+  "privacyPolicyUrl": "https://nject.ai/privacy-policy",
+  "termsOfServiceUrl": "https://nject.ai/terms-of-service"
+}

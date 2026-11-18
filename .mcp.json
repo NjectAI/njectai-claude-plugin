@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "njectai": {
+      "type": "http",
+      "url": "https://api.nject.ai/api/mcp"
+    }
+  }
+}
