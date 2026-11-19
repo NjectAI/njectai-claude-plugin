@@ -41,6 +41,10 @@ The server answers with your own profile data, memory and improved prompts.
 Claude never saves whole conversations through this plugin, and it changes the
 memory recording setting only when you ask.
 
+Behind that server, NjectAI uses two service providers for this: MidBrain,
+which stores and searches your memory, and AI model providers, which improve
+your prompts. The skill itself sends nothing anywhere else.
+
 How NjectAI handles your data: [Privacy Policy](https://nject.ai/privacy-policy)
 and [Terms of Service](https://nject.ai/terms-of-service).
 
